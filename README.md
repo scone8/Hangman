@@ -1,3 +1,6 @@
+Live Version:
+https://master.dbied5xw39hpw.amplifyapp.com 
+
 # hangman
 
 ## Project setup
